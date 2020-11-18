@@ -1,2 +1,2 @@
-# hello-world
-My firts repo
+# OTDR_impress.js
+OTDR_impress.js es una presentación sobre el uso del Reflectómetro Óptico (OTDR - Optical Time-domain Reflectometer) para la caracterización, detección de fallas y mantenimiento de las fibras ópticas.
